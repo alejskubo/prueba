@@ -1,2 +1,2 @@
 # Prueba
-Mi primer repositorio conectado con Nova
+Mi primer repositorio conectado con Nova branch2
